@@ -18,7 +18,7 @@
 
 | File Name      | Description                              |
 | -------------- | ---------------------------------------- |
-| `shipou.exe / .app`      | The app                      |
+| `shipout.exe / .app`      | The app                      |
 | `emails.txt`   | List of emails to send to (one per line) |
 | `smtps.txt`    | Your SMTP logins (format below)          |
 | `config.txt`   | Subject and reply email settings         |
