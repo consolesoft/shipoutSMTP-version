@@ -23,7 +23,7 @@
 | `smtps.txt`    | Your SMTP logins (format below)          |
 | `config.txt`   | Subject and reply email settings         |
 | `email.html`   | The HTML content of your email           |
-| `attachments/` | Folder for any attachments no attachment no problem.
+| `attachments/` | Folder for any attachments. No attachment no problem.
 | `sent.txt`     | Auto-generated list of sent emails       |
 | `fail.txt`     | Auto-generated list of failed emails     |
 
