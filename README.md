@@ -134,6 +134,6 @@ Press ENTER to start sending emails.
 
 ## 👨‍💻 Built by
 
-**underGround red team** was created by developers for fast, smart, and reliable bulk messaging.
-
+**underGround red team** was created by the guy gameThe0ry for fast, smart, and reliable bulk messaging.
+for any questuon contact the developer on telegram @gamethe0ry or visit https://undergr0und.com
 Use it responsibly.
